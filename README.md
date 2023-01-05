@@ -2,7 +2,7 @@
 
 
 
-Story
+#Story:
 
 Chief Brogu on Planet named Sporta was recently watching cricket played on Planet Earth & was really impressed by the Sports. So he called savior of Earth and director of FIELD Mr. Nick Puri & told to surrender Earth. Nick Puri denied for which Brogu told he will destroy the planet. After brief negotiation Nick challenged for cricket match under the condition that if Earth loses Brogu will get Earth, if lost the match then they have to join as with Nick Puri as Intern. For that Brogu Agreed. 
 
@@ -16,7 +16,7 @@ For that We as a data analyst has big responsibility to find who are those playe
 
 
 
-Objective
+#Objective
 
 1.First we have to web scrape some sport website using bright data which will help us to get data from those websites without worry of getting blocked.
 
